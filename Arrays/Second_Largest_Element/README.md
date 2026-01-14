@@ -72,11 +72,11 @@ Explanation: All elements are same, so there is no second largest.
 
 ## Comparison
 
-| Approach | Time Complexity | Space Complexity | Passes | Best For |
-|----------|----------------|------------------|--------|----------|
-| Sorting | O(n log n) | O(1) | 1 | Small arrays, simple implementation |
-| Two Pass | O(n) | O(1) | 2 | Medium arrays, easier to understand |
-| Single Pass | O(n) | O(1) | 1 | Large arrays, optimal performance |
+| Approach | Time Complexity | Space Complexity | Best For |
+|----------|----------------|------------------|----------|
+| Sorting | O(n log n) | O(1) | Small arrays, simple implementation |
+| Two Pass | O(n) | O(1) | Medium arrays, easier to understand |
+| Single Pass | O(n) | O(1) | Large arrays, optimal performance |
 
 ## Key Learnings
 - Always consider if multiple passes can be reduced to a single pass

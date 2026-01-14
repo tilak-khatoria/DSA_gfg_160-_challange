@@ -1,6 +1,6 @@
 # DSA GFG 160 Challenge
 
-Welcome to my GFG 160 Days of Code Challenge repository! 🚀
+Welcome to my GFG 160 Days DSA Challenge repository! 🚀
 
 ## 📚 About
 This repository contains my solutions to the GeeksforGeeks 160 Days DSA Challenge. Each problem is solved using **multiple approaches** to demonstrate different problem-solving techniques and optimize for various constraints.
@@ -63,9 +63,8 @@ For each problem, I provide multiple solutions:
 
 ## 🛠️ Languages Used
 
-- C++
-- Python
-- Java (where applicable)
+- **C++** (Primary language for implementations)
+- Python and Java (planned for future additions)
 
 ## 📊 Progress
 

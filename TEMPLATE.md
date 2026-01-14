@@ -91,11 +91,11 @@ Explanation: [explanation]
 
 ## Comparison
 
-| Approach | Time Complexity | Space Complexity | Passes | Best For |
-|----------|----------------|------------------|--------|----------|
-| [Approach 1] | O(?) | O(?) | ? | [Use case] |
-| [Approach 2] | O(?) | O(?) | ? | [Use case] |
-| [Approach 3] | O(?) | O(?) | ? | [Use case] |
+| Approach | Time Complexity | Space Complexity | Best For |
+|----------|----------------|------------------|----------|
+| [Approach 1] | O(?) | O(?) | [Use case] |
+| [Approach 2] | O(?) | O(?) | [Use case] |
+| [Approach 3] | O(?) | O(?) | [Use case] |
 
 ## Key Learnings
 - Learning 1
