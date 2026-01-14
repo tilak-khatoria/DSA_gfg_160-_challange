@@ -1,0 +1,28 @@
+# Compiled files
+*.class
+*.pyc
+*.o
+*.out
+*.exe
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Build directories
+build/
+dist/
+__pycache__/
+node_modules/
