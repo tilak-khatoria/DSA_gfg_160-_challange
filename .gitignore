@@ -26,3 +26,6 @@ build/
 dist/
 __pycache__/
 node_modules/
+
+# CodeQL
+_codeql_detected_source_root
